@@ -85,7 +85,8 @@ The dashboard is designed with a clean layout, controlled visual interactions, a
 ---
 
 ## 📷 Dashboard Preview
-*(Add a screenshot of the final Power BI dashboard here)*
+<img width="1207" height="691" alt="image" src="https://github.com/user-attachments/assets/daf93d40-f0e1-420c-8248-97b9cff50cf9" />
+
 
 ---
 
