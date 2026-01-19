@@ -76,11 +76,29 @@ The dashboard is designed with a clean layout, controlled visual interactions, a
 ---
 
 ## 📌 Skills Demonstrated
-- End-to-end data analytics workflow  
-- Data cleaning and feature engineering  
-- SQL-based business analysis  
-- Power BI dashboard design and interactivity  
-- Data storytelling and business insight generation  
+
+- **End-to-End Data Analytics Workflow**  
+  Translated raw transactional data into business-ready insights by integrating data preparation, SQL-based analysis, and interactive visualization within a single analytics pipeline.
+
+- **Data Cleaning & Feature Engineering (Python)**  
+  Performed data preprocessing using Pandas, including handling missing values, standardizing schemas, validating data consistency, and creating derived features such as age groups and customer segments to support analytical use cases.
+
+- **SQL-Based Business Analysis (PostgreSQL)**  
+  Designed and executed analytical SQL queries using aggregations, joins, filtering, and conditional logic to answer real-world business questions related to revenue, customer behavior, subscriptions, and discount usage.
+
+- **Power BI Dashboard Development & Data Modeling**  
+  Built interactive dashboards using Power BI with KPI cards, charts, slicers, and controlled visual interactions. Implemented data modeling best practices and DAX measures to ensure accurate metrics and responsive filtering.
+
+- **DAX Measures & Calculated Metrics**  
+  Created dynamic measures for averages, percentages, and key performance indicators, enabling real-time insight updates based on user-driven filters and slicer selections.
+
+- **Data Storytelling & Insight Communication**  
+  Converted analytical results into clear, actionable insights and business recommendations, focusing on customer segmentation, pricing strategy, and subscription optimization.
+
+- **Business-Oriented Analytical Thinking**  
+  Approached analysis from a stakeholder perspective by aligning insights with marketing, retention, and operational decision-making needs.
+
+
 
 ---
 
